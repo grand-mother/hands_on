@@ -16,3 +16,9 @@ The GRAND software uses `Python 3.7`, the current head. See
 The GRAND package manager allows to create and manage `Python` packages in a
 standardised way. Instructions can be found
 [here](intro/python37/grand-pkg.md) for installation instructions.
+
+
+### Running Radio Morphing
+
+The grand-radiomorphing package includes a short user guide and an example. The instructions how to run it can be found [here](https://github.com/grand-mother/grand-radiomorphing/tree/master/docs/README.md), details on the methods itself in [arXiv:1811.01750](https://arxiv.org/abs/1811.01750).
+Since the package is always under developement, please check out the most recent version of the code and the guide. 
