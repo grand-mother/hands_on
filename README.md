@@ -23,10 +23,10 @@ standardised way. Instructions can be found
 To be completed
 
 ### RadioMorphing
-Refer to [this page](https://github.com/grand-mother/radiomorphing)
+Refer to [this page](https://github.com/grand-mother/radiomorphing).
 
 ## Item 3: GRAND scripts
-Refer to [this document](https://github.com/grand-mother/hands_on/blob/master/Presentation.pdf)
+Refer to [this document](https://github.com/grand-mother/hands_on/blob/master/GRANDscripts/GRANDscripts.pdf).
  
 ## Item 4: C tools for simulations in GRAND
 To be completed
