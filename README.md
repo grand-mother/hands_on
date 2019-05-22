@@ -27,8 +27,12 @@ The grand-radiomorphing package includes a short user guide and an example. The 
 Since the package is always under developement, please check out the most recent version of the code and the guide. 
 
 ## Item 3: GRAND scripts
+### Antenna response
 Refer to [this document](https://github.com/grand-mother/hands_on/blob/master/GRANDscripts/GRANDscripts.pdf).
- 
+
+### Angular reconstruction
+To be completed. 
+
 ## Item 4: C tools for simulations in GRAND
 To be completed.
 
