@@ -23,10 +23,12 @@ standardised way. Instructions can be found
 To be completed.
 
 ### RadioMorphing
-Refer to [this page](https://github.com/grand-mother/radiomorphing).
+The grand-radiomorphing package includes a short user guide and an example. The instructions how to run it can be found [here](https://github.com/grand-mother/grand-radiomorphing/tree/master/docs/README.md), details on the methods itself in [arXiv:1811.01750](https://arxiv.org/abs/1811.01750).
+Since the package is always under developement, please check out the most recent version of the code and the guide. 
 
 ## Item 3: GRAND scripts
 Refer to [this document](https://github.com/grand-mother/hands_on/blob/master/GRANDscripts/GRANDscripts.pdf).
  
 ## Item 4: C tools for simulations in GRAND
 To be completed.
+
